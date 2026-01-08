@@ -1,0 +1,24 @@
+{
+  "name": "bitebalance-ai-referee",
+  "version": "1.0.0",
+  "description": "Professional AI Food Decision Intelligence Platform",
+  "main": "streamlit_app.py",
+  "scripts": {
+    "dev": "streamlit run streamlit_app.py",
+    "build": "echo 'Build complete'",
+    "start": "streamlit run streamlit_app.py --server.port $PORT"
+  },
+  "keywords": [
+    "ai",
+    "food",
+    "decision-intelligence",
+    "streamlit",
+    "nutrition",
+    "health"
+  ],
+  "author": "BiteBalance Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
